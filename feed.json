@@ -5,6 +5,7 @@
     "home_page_url": "https://dixit.dev",
     "feed_url": "https://dixit.dev/feed.json",
     "user_comment": "",
+    "icon": "https://dixit.dev/media/website/channels4_profile.jpg",
     "author": {
         "name": "Dixit Bhuva"
     },
