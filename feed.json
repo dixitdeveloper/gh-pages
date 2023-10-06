@@ -10,5 +10,19 @@
         "name": "Dixit Bhuva"
     },
     "items": [
+        {
+            "id": "https://dixit.dev/amd-software-guide-explanation.html",
+            "url": "https://dixit.dev/amd-software-guide-explanation.html",
+            "title": "AMD Software Guide / Explanation.",
+            "summary": "Radeon Anti-Lag: It reduces input latency ( for example how much time it will take when you press mouse button and the bullet will fire on your screen ) by cost of 10-20 FPS depending on your hardware. In simple term when you turn this&hellip;",
+            "content_html": "<h2>Radeon Anti-Lag:</h2>\n<p>It reduces input latency ( for example how much time it will take when you press mouse button and the bullet will fire on your screen ) by cost of 10-20 FPS depending on your hardware. In simple term when you turn this setting on you get lower latency then before but you will lose 10-20 FPS.</p>\n<p>Recommended settings:</p>\n<p><strong>on:</strong> If you are playing competitive games like Counter Strike, Valorant etc.</p>\n<p><strong>off: </strong>If you are playing story / offline games like Last of us, Uncharted etc.</p>\n<p>\"If you are not even getting playable fps then just turn this setting off it will give you some fps\"</p>",
+            "author": {
+                "name": "Dixit Bhuva"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-06T22:06:52+05:30",
+            "date_modified": "2023-10-06T22:06:52+05:30"
+        }
     ]
 }

@@ -3,10 +3,35 @@
     <title>dixit.dev</title>
     <link href="https://dixit.dev/feed.xml" rel="self" />
     <link href="https://dixit.dev" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2023-10-06T22:06:52+05:30</updated>
     <author>
         <name>Dixit Bhuva</name>
     </author>
     <id>https://dixit.dev</id>
 
+    <entry>
+        <title>AMD Software Guide / Explanation.</title>
+        <author>
+            <name>Dixit Bhuva</name>
+        </author>
+        <link href="https://dixit.dev/amd-software-guide-explanation.html"/>
+        <id>https://dixit.dev/amd-software-guide-explanation.html</id>
+
+        <updated>2023-10-06T22:06:52+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Radeon Anti-Lag: It reduces input latency ( for example how much time it will take when you press mouse button and the bullet will fire on your screen ) by cost of 10-20 FPS depending on your hardware. In simple term when you turn this&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Radeon Anti-Lag:</h2>
+<p>It reduces input latency ( for example how much time it will take when you press mouse button and the bullet will fire on your screen ) by cost of 10-20 FPS depending on your hardware. In simple term when you turn this setting on you get lower latency then before but you will lose 10-20 FPS.</p>
+<p>Recommended settings:</p>
+<p><strong>on:</strong> If you are playing competitive games like Counter Strike, Valorant etc.</p>
+<p><strong>off: </strong>If you are playing story / offline games like Last of us, Uncharted etc.</p>
+<p>"If you are not even getting playable fps then just turn this setting off it will give you some fps"</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
