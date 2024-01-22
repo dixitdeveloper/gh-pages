@@ -1,12 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Personal Website</title>
+    <title>Website</title>
     <link href="https://dixit.dev/feed.xml" rel="self" />
     <link href="https://dixit.dev" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2024-01-22T19:12:14+05:30</updated>
     <author>
         <name>Dixit Bhuva</name>
     </author>
     <id>https://dixit.dev</id>
 
+    <entry>
+        <title>Free Music Streaming No Ads (Spotube)</title>
+        <author>
+            <name>Dixit Bhuva</name>
+        </author>
+        <link href="https://dixit.dev/free-music-streaming-no-ads-spotube.html"/>
+        <id>https://dixit.dev/free-music-streaming-no-ads-spotube.html</id>
+        <media:content url="https://dixit.dev/media/posts/3/Screenshot-2024-01-22-at-17-18-22-KRTirtho_spotube-Open-source-Spotify-client-that-doesnt-require-Premium-nor-uses-Electron-Available-for-both-desktop-and-mobile.png" medium="image" />
+            <category term="Free"/>
+
+        <updated>2024-01-22T19:12:14+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://dixit.dev/media/posts/3/Screenshot-2024-01-22-at-17-18-22-KRTirtho_spotube-Open-source-Spotify-client-that-doesnt-require-Premium-nor-uses-Electron-Available-for-both-desktop-and-mobile.png" alt="" />
+                    An open source, cross-platform Spotify client that worth mentioning. I been looking for Spotify free alternatives for some time maybe i finally find it. My&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dixit.dev/media/posts/3/Screenshot-2024-01-22-at-17-18-22-KRTirtho_spotube-Open-source-Spotify-client-that-doesnt-require-Premium-nor-uses-Electron-Available-for-both-desktop-and-mobile.png" class="type:primaryImage" alt="" /></p>
+                <p class="align-center">An open source, cross-platform Spotify client that worth mentioning.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  style="outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://dixit.dev/media/posts/3/Screenshot-2024-01-22-at-17-18-22-KRTirtho_spotube-Open-source-Spotify-client-that-doesnt-require-Premium-nor-uses-Electron-Available-for-both-desktop-and-mobile-2.png" alt="Spotubbe" width="750" height="421" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://dixit.dev/media/posts/3/responsive/Screenshot-2024-01-22-at-17-18-22-KRTirtho_spotube-Open-source-Spotify-client-that-doesnt-require-Premium-nor-uses-Electron-Available-for-both-desktop-and-mobile-2-xs.png 300w ,https://dixit.dev/media/posts/3/responsive/Screenshot-2024-01-22-at-17-18-22-KRTirtho_spotube-Open-source-Spotify-client-that-doesnt-require-Premium-nor-uses-Electron-Available-for-both-desktop-and-mobile-2-sm.png 480w ,https://dixit.dev/media/posts/3/responsive/Screenshot-2024-01-22-at-17-18-22-KRTirtho_spotube-Open-source-Spotify-client-that-doesnt-require-Premium-nor-uses-Electron-Available-for-both-desktop-and-mobile-2-md.png 768w ,https://dixit.dev/media/posts/3/responsive/Screenshot-2024-01-22-at-17-18-22-KRTirtho_spotube-Open-source-Spotify-client-that-doesnt-require-Premium-nor-uses-Electron-Available-for-both-desktop-and-mobile-2-lg.png 1024w"></figure>
+<p>I been looking for Spotify free alternatives for some time maybe i finally find it.</p>
+<p>My requirements:</p>
+<ol>
+<li>Music</li>
+<li>No Ads that's all</li>
+</ol>
+<p>Solutions I come across:</p>
+<ol>
+<li>use crack Spotify - No, I don't trust the authors. (I been using crack Spotify for some times, one day my Instagram and Telegram account got hacked at same time. also I been using some other cracked apps so I have no way of knowing how I got hacked. I never get my Instagram back but eventually I get my telegram back. that's why I stopped using cracked apps.)</li>
+<li>Spotify + Add Blockers - No, I tried that but with every update it's just broke the thing then I need to set that up again.</li>
+<li>Spotify + Add Blocker bundled in electron - There is no way I am gonna use electron app not an option.</li>
+<li>YouTube + Add Blocker in Browser - I been using this for quite some time but for some previous days it's giving me pop up that you are using adblocker... So again  started searching and I find this,<hr></li>
+<li class="align-left"><strong>"SPOTUBE" </strong></li>
+</ol>
+<ul>
+<li>Open Source - Very Good<span class="ILfuVd" lang="en"><span class="hgKElc">👍 </span></span><a jsname="UWckNb" href="https://emojipedia.org/thumbs-up" data-jsarwt="1" data-usg="AOvVaw1_bos3-9iqNxKL1KZSe1kc" data-ved="2ahUKEwjRuM_Jh_GDAxVy9zgGHWDRCnMQFnoECBMQAQ" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">
+<h3 class="LC20lb MBeuO DKV0Md" style="display: inline !important;"> </h3>
+</a></li>
+<li>No Ads -  <span class="ILfuVd NA6bn" lang="en"><span class="hgKElc">😲</span></span></li>
+<li>No electron + Cross Platform - OHHHHHH<span class="ILfuVd NA6bn" lang="en"><span class="hgKElc">😮</span></span></li>
+</ul>
+<p>Available on Windows, Linux, MacOs, Android.</p>
+<p>But it has some small problems, You can't listen Spotify Shows &amp; Podcasts - Only Music. That's not problem for me I'm never going to listen to Spotify Shows &amp; Podcasts.</p>
+<p>Other thing is that it don't automatically plays music after it finished current track, like Spotify automatically suggest and start playing similar music after finishing current track. also that's not problem for me.</p>
+<p>I just connect my Spotify account and I just tell the app to start this playlist and it's all set. after it finished that playlist I provide another playlist to play. so it's not problem for me because I am not a big fan of Spotify auto-suggested music.</p>
+<p>GitHub Link for ~ <a href="https://github.com/KRTirtho/spotube" target="_blank" rel="noopener noreferrer">Spotube</a></p>
+            ]]>
+        </content>
+    </entry>
 </feed>

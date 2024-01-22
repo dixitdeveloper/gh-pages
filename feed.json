@@ -1,13 +1,30 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Personal Website",
+    "title": "Website",
     "description": "",
     "home_page_url": "https://dixit.dev",
     "feed_url": "https://dixit.dev/feed.json",
     "user_comment": "",
+    "icon": "https://dixit.dev/media/website/logo-Copy.jpg",
     "author": {
         "name": "Dixit Bhuva"
     },
     "items": [
+        {
+            "id": "https://dixit.dev/free-music-streaming-no-ads-spotube.html",
+            "url": "https://dixit.dev/free-music-streaming-no-ads-spotube.html",
+            "title": "Free Music Streaming No Ads (Spotube)",
+            "summary": "An open source, cross-platform Spotify client that worth mentioning. I been looking for Spotify free alternatives for some time maybe i finally find it. My&hellip;",
+            "content_html": "<p class=\"align-center\">An open source, cross-platform Spotify client that worth mentioning.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  style=\"outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://dixit.dev/media/posts/3/Screenshot-2024-01-22-at-17-18-22-KRTirtho_spotube-Open-source-Spotify-client-that-doesnt-require-Premium-nor-uses-Electron-Available-for-both-desktop-and-mobile-2.png\" alt=\"Spotubbe\" width=\"750\" height=\"421\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://dixit.dev/media/posts/3/responsive/Screenshot-2024-01-22-at-17-18-22-KRTirtho_spotube-Open-source-Spotify-client-that-doesnt-require-Premium-nor-uses-Electron-Available-for-both-desktop-and-mobile-2-xs.png 300w ,https://dixit.dev/media/posts/3/responsive/Screenshot-2024-01-22-at-17-18-22-KRTirtho_spotube-Open-source-Spotify-client-that-doesnt-require-Premium-nor-uses-Electron-Available-for-both-desktop-and-mobile-2-sm.png 480w ,https://dixit.dev/media/posts/3/responsive/Screenshot-2024-01-22-at-17-18-22-KRTirtho_spotube-Open-source-Spotify-client-that-doesnt-require-Premium-nor-uses-Electron-Available-for-both-desktop-and-mobile-2-md.png 768w ,https://dixit.dev/media/posts/3/responsive/Screenshot-2024-01-22-at-17-18-22-KRTirtho_spotube-Open-source-Spotify-client-that-doesnt-require-Premium-nor-uses-Electron-Available-for-both-desktop-and-mobile-2-lg.png 1024w\"></figure>\n<p>I been looking for Spotify free alternatives for some time maybe i finally find it.</p>\n<p>My requirements:</p>\n<ol>\n<li>Music</li>\n<li>No Ads that's all</li>\n</ol>\n<p>Solutions I come across:</p>\n<ol>\n<li>use crack Spotify - No, I don't trust the authors. (I been using crack Spotify for some times, one day my Instagram and Telegram account got hacked at same time. also I been using some other cracked apps so I have no way of knowing how I got hacked. I never get my Instagram back but eventually I get my telegram back. that's why I stopped using cracked apps.)</li>\n<li>Spotify + Add Blockers - No, I tried that but with every update it's just broke the thing then I need to set that up again.</li>\n<li>Spotify + Add Blocker bundled in electron - There is no way I am gonna use electron app not an option.</li>\n<li>YouTube + Add Blocker in Browser - I been using this for quite some time but for some previous days it's giving me pop up that you are using adblocker... So again  started searching and I find this,<hr></li>\n<li class=\"align-left\"><strong>\"SPOTUBE\" </strong></li>\n</ol>\n<ul>\n<li>Open Source - Very Good<span class=\"ILfuVd\" lang=\"en\"><span class=\"hgKElc\">👍 </span></span><a jsname=\"UWckNb\" href=\"https://emojipedia.org/thumbs-up\" data-jsarwt=\"1\" data-usg=\"AOvVaw1_bos3-9iqNxKL1KZSe1kc\" data-ved=\"2ahUKEwjRuM_Jh_GDAxVy9zgGHWDRCnMQFnoECBMQAQ\" style=\"font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">\n<h3 class=\"LC20lb MBeuO DKV0Md\" style=\"display: inline !important;\"> </h3>\n</a></li>\n<li>No Ads -  <span class=\"ILfuVd NA6bn\" lang=\"en\"><span class=\"hgKElc\">😲</span></span></li>\n<li>No electron + Cross Platform - OHHHHHH<span class=\"ILfuVd NA6bn\" lang=\"en\"><span class=\"hgKElc\">😮</span></span></li>\n</ul>\n<p>Available on Windows, Linux, MacOs, Android.</p>\n<p>But it has some small problems, You can't listen Spotify Shows &amp; Podcasts - Only Music. That's not problem for me I'm never going to listen to Spotify Shows &amp; Podcasts.</p>\n<p>Other thing is that it don't automatically plays music after it finished current track, like Spotify automatically suggest and start playing similar music after finishing current track. also that's not problem for me.</p>\n<p>I just connect my Spotify account and I just tell the app to start this playlist and it's all set. after it finished that playlist I provide another playlist to play. so it's not problem for me because I am not a big fan of Spotify auto-suggested music.</p>\n<p>GitHub Link for ~ <a href=\"https://github.com/KRTirtho/spotube\" target=\"_blank\" rel=\"noopener noreferrer\">Spotube</a></p>",
+            "image": "https://dixit.dev/media/posts/3/Screenshot-2024-01-22-at-17-18-22-KRTirtho_spotube-Open-source-Spotify-client-that-doesnt-require-Premium-nor-uses-Electron-Available-for-both-desktop-and-mobile.png",
+            "author": {
+                "name": "Dixit Bhuva"
+            },
+            "tags": [
+                   "Free"
+            ],
+            "date_published": "2024-01-22T18:55:13+05:30",
+            "date_modified": "2024-01-22T19:12:14+05:30"
+        }
     ]
 }
